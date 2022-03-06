@@ -14,5 +14,10 @@
 
     &__logo {
         width: 30rem;
+        margin-bottom: v.$separacion;
+
+        @include m.desktop {
+            margin-bottom: 0;
+        }
     }
 }
