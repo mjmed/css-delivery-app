@@ -35,6 +35,7 @@ Incluye:
 - [**SASS**](https://sass-lang.com/)
 - [**Normalize.css**](https://necolas.github.io/normalize.css/)
 - [Fuente **Roboto**](https://fonts.google.com/specimen/Roboto)
+- [Get Waves](https://getwaves.io/)
 
 
 #### Versión: 0.1.0
