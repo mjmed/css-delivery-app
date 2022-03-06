@@ -1,0 +1,20 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.pasos {
+    margin-top: v.$separacion;
+
+    &__wave {
+
+    }
+
+    &__contenido {
+        background-color: v.$primario;
+    }
+
+    &__grid {
+        @include m.tablet { 
+            @include m.grid(3, v.$separacion);
+        }
+    }
+}
