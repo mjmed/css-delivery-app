@@ -27,7 +27,7 @@ Incluye:
 + Normalización de CSS con **Normalize.css**
 + Fuentes personalizadas con **Google Fonts**
 + _Responsive Web Design_ con **Media Queries**
-+ Enfoque **BEN** y **_Mobile First_**
++ Enfoque **BEM** y **_Mobile First_**
 
 
 #### Librerías y recursos utilizados:
