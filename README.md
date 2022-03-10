@@ -1,4 +1,4 @@
-# DeliveryApp
+# DeliveryApp: App Comida
 
 
 ## _CSS La Guía Completa - Flexbox, CSS Grid, SASS +20 proyectos_
@@ -38,4 +38,4 @@ Incluye:
 - [Get Waves](https://getwaves.io/)
 
 
-#### Versión: 0.1.0
+#### Versión: 1.0.0
